@@ -1,2 +1,6 @@
-# CareerMate-AI
-Software Engineering Assignment
+CareerMate AI 
+A voice-enabled AI career advisor designed to guide students through verified resume tailoring, job post vetting, and spoken mock interview coaching.  
+📌 OverviewCareerMate is a voice-enabled conversational assistant built to eliminate the lack of feedback in student job hunting. Instead of letting students guess why their applications fail, CareerMate pre-screens job advertisements for red flags, tailors resumes using verified personal data, conducts spoken mock interviews with live captions, and delivers actionable coaching reports.  
+✨ Key FeaturesJob
+Posting Screening: Scans job listings to detect suspicious indicators or ghost-job patterns and highlights red flags.   Verified Student Profiles: Maintains a strictly verified educational and skill history to prevent ungrounded claims.   Adaptive Resume Tailoring: Reframes a student's real experiences to match target job descriptions with transparent approvals.  Voice-Driven Mock Interviews: Conducts conversational spoken interviews aloud, generates live captions, and responds dynamically based on spoken answers.   
+Actionable Coaching Feedback: Delivers structured evaluations covering both answer quality and vocal delivery (pacing, pauses, and filler words).
